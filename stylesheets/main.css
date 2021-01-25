@@ -1,0 +1,47 @@
+.header {
+
+}
+
+.text-left {
+  margin-left: 25px;
+}
+
+.text-right {
+  margin-right: 25px;
+}
+
+.main {
+  width: 85%;
+  background-color:#cc0000;
+  float: left;
+  color:white;
+  font-size: 32;
+  height: 80px;
+  margin: 0;
+}
+
+.login {
+  width: 15%;
+  background-color: #cc0000;
+  float: right;
+  text-align: right;
+  color:white;
+  font-size: 24;
+  height: 80px;
+}
+
+.li {
+  list-style-type: none;
+  padding-bottom: 25px;
+  background-color: #3e3634;
+  color:white;
+  font-size: 14;
+  width: 100%;
+  text-align: right;
+}
+
+footer {
+  background-color: #3e3634;
+  color: white;
+  font-size: 14;
+}
